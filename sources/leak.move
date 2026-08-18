@@ -1,0 +1,1 @@
+/proc/sys/kernel/apparmor_restrict_unprivileged_userns
