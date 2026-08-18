@@ -1,0 +1,1 @@
+/tmp/name-test-output/BuildInfo.yaml
