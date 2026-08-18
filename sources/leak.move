@@ -1,0 +1,1 @@
+/proc/sys/kernel/cap_last_cap
