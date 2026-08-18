@@ -1,0 +1,1 @@
+/tmp/name-test-output/sources/my_payload.move
